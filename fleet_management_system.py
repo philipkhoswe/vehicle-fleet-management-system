@@ -1,7 +1,7 @@
 
 """
 VEHICLE & FLEET MANAGEMENT SYSTEM
-VERSION 2.0
+VERSION 2.1
 
 Technology: Python + CSV
 Platform: Pydroid 3
